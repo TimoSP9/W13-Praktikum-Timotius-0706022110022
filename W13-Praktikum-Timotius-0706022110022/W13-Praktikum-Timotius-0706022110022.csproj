@@ -1,0 +1,9 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net5.0</TargetFramework>
+    <RootNamespace>W13_Praktikum_Timotius_0706022110022</RootNamespace>
+  </PropertyGroup>
+
+</Project>
