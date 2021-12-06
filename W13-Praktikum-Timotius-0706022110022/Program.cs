@@ -26,7 +26,7 @@ namespace W13_Praktikum_Timotius_0706022110022
                 Console.Write("KELAS          :");
                 var kls = Console.ReadLine();
             }
-            ngulang();
+            Program.ngulang();
         }
 
         private static void ngulang()
